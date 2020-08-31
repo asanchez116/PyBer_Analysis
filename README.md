@@ -21,10 +21,9 @@ Following a previous analysis on the fictional PyBer ridesharing company, an add
 ## Summary
 
 Three recommendations to address disparities among city types include: 
-1. Balancing the number of drivers to fit demand. There are more drivers than rides in rural cities. redirecting those drivers to meeting demand in suburban and rural cities can balance disparities. Redirect urban drivers prioritizing  rural cities 
-2. Redirect urban drivers to suburban cities 
-3. Adjust fares to reflect demand and availability
-4. Accomidate for fluctations in demand. Rural cities show little variation between January and April 2019. The graph shows spikes in total fares for all three city types at the end of February. Suburban cities show a sharp upward trend in January then trend down with spikes in total fares at the end of Febuary and end of April. Urban cities show an upward trend similar to suburban cities but more steady and fluctuate most between middle of Febuary and April. 
+1. Balancing the number of drivers to fit demand. There are more drivers than rides in urban cities. Redirecting those drivers to meeting demand in suburban and rural cities can balance disparities. Redirect urban drivers prioritizing  rural cities, Redirect urban drivers to suburban cities 
+2. Adjust fares to reflect demand and availability
+3. Accomidate for fluctations in demand. Rural cities show little variation between January and April 2019. The graph shows spikes in total fares for all three city types at the end of February. Suburban cities show a sharp upward trend in January then trend down with spikes in total fares at the end of Febuary and end of April. Urban cities show an upward trend similar to suburban cities but more steady and fluctuate most between middle of Febuary and April. 
 
 
 
